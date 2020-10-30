@@ -1,7 +1,7 @@
 #The shell scripting guide from Project 2 did not have us making a permanent script to 
 #perform the function of a for loop. Since we did not create one for Project 2,
 #I decided to make this code block to include it in the repository and describe
-#it's purpose. It's purpose is to run a loop while a condition is true, until the
+#its purpose. Its purpose is to run a loop while a condition is true, until the
 #condition is false. When a condition becomes false, it terminates the loop.
 
 #!/bin/bash
