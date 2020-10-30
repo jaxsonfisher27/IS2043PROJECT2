@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 #The purpose of this code block is to perform a while loop. 
 #The code has a while loop that will run until a condition 
-#is meant, then it will terminate.
+#is met, and then it will terminate.
 
 counter = 2
 
